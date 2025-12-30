@@ -1,0 +1,23 @@
+{
+  "name": "playwright-lambadatest",
+  "version": "1.0.0",
+  "description": "playwright lambada test",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/praveenrajavs-0620/playwright-lambadatest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/praveenrajavs-0620/playwright-lambadatest/issues"
+  },
+  "homepage": "https://github.com/praveenrajavs-0620/playwright-lambadatest#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^25.0.3"
+  }
+}
